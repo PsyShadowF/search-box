@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "animalName": "Gato",
+    "animalScientificName": "Felis catus",
+    "animalAverageLifetime": "12 - 18"
+  },
+  {
+    "id": 2,
+    "animalName": "Cachorro",
+    "animalScientificName": "Canis lupus familiaris",
+    "animalAverageLifetime": "10 - 13"
+  },
+  {
+    "id": 3,
+    "animalName": "Cavalo",
+    "animalScientificName": "Equus caballus",
+    "animalAverageLifetime": "25 - 30"
+  },
+  {
+    "id": 4,
+    "animalName": "Papagaio",
+    "animalScientificName": "Amazona",
+    "animalAverageLifetime": "2 - 4"
+  },
+  {
+    "id": 5,
+    "animalName": "Tartaruga Marinha",
+    "animalScientificName": "Chelonioidea",
+    "animalAverageLifetime": "80 - 100"
+  }
+]
